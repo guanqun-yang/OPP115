@@ -1,0 +1,7 @@
+.claude/
+.trae/
+.env
+
+__pycache__/
+*.egg-info/
+
